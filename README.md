@@ -3,7 +3,7 @@
 Welcome to my repository!  
 My name is Muhtarin Khayer Brohee, and I am a Ph.D. student in the Department of Biological Sciences at Auburn University.
 
-This repository was created as part of my project and manuscript titled:  
+This repository was created as part of my class (FISH-7350) project and manuscript titled:  
 **"The Influence of Diet on the Gut Microbiome of *Periplaneta americana* (American Cockroach): A Meta-Analysis."**
 
 ## Project Overview
