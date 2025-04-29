@@ -38,10 +38,10 @@ All analyses were performed in **R version 4.x.x**, using the following packages
 - `ggplot2`
 
 ## Citation
+If you use this github project in your research, please cite it as:
+Muhtarin Khayer Brohee. (2025). mzb0226/Meta_analysis_Brohee: v1.0.0 – The Influence of Diet on the Gut Microbiome of *Periplaneta americana* (American Cockroach): A Meta-Analysis (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15306932
 
-If you use or refer to materials from this repository, please cite:
-
-> Brohee, M. K. & Wilson, A. (2025). The Influence of Diet on the Gut Microbiome of *Periplaneta americana*: A Meta-Analysis. [Manuscript in preparation].
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15306932.svg)](https://doi.org/10.5281/zenodo.15306932)
 
 ---
 
