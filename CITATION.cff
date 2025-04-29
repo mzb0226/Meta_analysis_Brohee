@@ -1,1 +1,12 @@
 
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "mzb0226/Meta_analysis_Brohee: Initial public release of Periplaneta americana gut-microbiome meta-analysis"
+version: "v1.0.0"
+doi: "10.5281/zenodo.15306932"
+date-released: "2025-04-29"
+authors:
+  - family-names: "Brohee"
+    given-names: "Muhtarin Khayer"
+repository-code: "https://github.com/mzb0226/Meta_analysis_Brohee"
+url: "https://doi.org/10.5281/zenodo.15306932"
