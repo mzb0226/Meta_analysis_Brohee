@@ -17,25 +17,34 @@ Effect sizes were calculated using Hedges' g for alpha diversity and log respons
 
 ## Repository Contents
 
-- `Data/` – Extracted raw data files
+- `Data/` –  Raw and processed data files
 - `Scripts/` – R scripts for:
   - Effect size calculations
   - Random-effects meta-analysis
   - Forest plots, funnel plots, and leave-one-out sensitivity analyses
-- `Figures/` – 
+- `Plots/` – Publication-ready figure files (PNG, PDF)
+- `Results/` – Excel summary tables and PDF outputs
   - Forest plots for alpha diversity and taxonomic outcomes
   - Funnel plots to assess publication bias
   - Leave-one-out (LOO) plots for sensitivity analysis
-- `Supplement/` – Supplementary figures and tables
-- `EndNote_Library/` – Reference library used for citations
+- `Supplementary/` – Supplementary figures (S1–S12) and tables (S1–S2)
+- `Reference/` – EndNote library files for citation management
 
-## Software and Packages
+## Software and Environment
 
-All analyses were performed in **R version 4.x.x**, using the following packages:
-- `metafor`
-- `readxl`
-- `dplyr`
-- `ggplot2`
+- **R version:** 4.4.2  
+- **Key R packages:**  
+  - metafor (v4.8-0)  
+  - readxl (v1.4.3)  
+  - dplyr (v1.1.4)  
+  - ggplot2 (v3.4.4)  
+  - writexl (v1.4.2)  
+  - orchaRd (v2.0)  
+  - devtools (v2.4.5)  
+
+## Acknowledgments
+
+The author gratefully acknowledges the support and guidance of **Dr. Alan Wilson** for providing essential materials and mentorship throughout this project. Special thanks to Auburn University librarians **Adelia Grabowsky** and **Patricia Hartmen** for their expertise in literature searching and data acquisition. Additional gratitude goes to all classmates for their constructive feedback and discussions. Finally, thanks to ChatGPT for assistance with script debugging and optimization.
 
 ## Citation
 If you use this github project/script in your research, please cite it as:
