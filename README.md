@@ -1,7 +1,7 @@
 # Meta-Analysis Repository
 
 Welcome to my repository!  
-My name is Muhtarin Khayer Brohee, and I am a Ph.D. student in the Department of Biological Sciences at Auburn University.
+My name is Muhtarin Khayer Brohee, and I am a master's student in the Department of Biological Sciences at Auburn University.
 
 The manuscript titled:  
 **"The Influence of Diet on the Gut Microbiome of *Periplaneta americana* (American Cockroach): A Meta-Analysis."**
