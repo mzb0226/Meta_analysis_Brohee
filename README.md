@@ -3,7 +3,7 @@
 Welcome to my repository!  
 My name is Muhtarin Khayer Brohee, and I am a Ph.D. student in the Department of Biological Sciences at Auburn University.
 
-This repository was created as part of my class (FISH-7350) project and manuscript titled:  
+The manuscript titled:  
 **"The Influence of Diet on the Gut Microbiome of *Periplaneta americana* (American Cockroach): A Meta-Analysis."**
 
 ## Project Overview
@@ -44,7 +44,7 @@ Effect sizes were calculated using Hedges' g for alpha diversity and log respons
 
 ## Acknowledgments
 
-The author gratefully acknowledges the support and guidance of **Dr. Alan Wilson** for providing essential materials and mentorship throughout this project. Special thanks to Auburn University librarians **Adelia Grabowsky** and **Patricia Hartmen** for their expertise in literature searching and data acquisition. Additional gratitude goes to all classmates for their constructive feedback and discussions. Finally, thanks to ChatGPT for assistance with script debugging and optimization.
+The author gratefully acknowledges the support and guidance of **Dr. Alan Wilson** for providing mentorship throughout this project. Special thanks to Auburn University librarians **Adelia Grabowsky** and **Patricia Hartmen** for their expertise in literature searching and data acquisition. Finally, thanks to ChatGPT for assistance with script debugging and optimization.
 
 ## Citation
 If you use this github project/script in your research, please cite it as:
